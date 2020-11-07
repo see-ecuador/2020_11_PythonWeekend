@@ -2,7 +2,7 @@
 
 Charlas:  
 **01 - Bases de Python para ciencia de datos**  
-Por: [Néstor Montaño](https://www.linkedin.com/in/nestor-monta%C3%B1o/)
+Por: [Néstor Montaño](https://www.linkedin.com/in/nestor-monta%C3%B1o/)  
 La información está en la carpeta 01_Bases_Python_DataScience 
   
   
