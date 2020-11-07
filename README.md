@@ -12,13 +12,13 @@ La información pueden encontrarla en
 https://github.com/katymq/Python-Weekend-2020
 
   
-**03 - Reticulate: Una historia de dos lenguajes**
+**03 - Reticulate: Una historia de dos lenguajes**  
 Por: [Antonio Álvarez]()  
    
-**04 - Comportamiento de Redes sociales**
+**04 - Comportamiento de Redes sociales**  
 Por: [Michelle Nieto]()      
    
-**05 - Introducción a Machine Learning**
+**05 - Introducción a Machine Learning**  
 Por: [Ángel Catagua](https://www.linkedin.com/in/angel-catagua-259b2a78/)    
    
 **06 - Introducción a Pytorch**  
