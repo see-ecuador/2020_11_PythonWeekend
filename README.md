@@ -36,7 +36,7 @@ La presentación está en la carpeta: 07_RedesConvolucionales
   
 
 
-## Sociedad Ecuatorina de Estadística
+### Sociedad Ecuatorina de Estadística
 
 Para más charlas, eventos y noticias síguenos en:
 FB: www.facebook.com/socecuest  
