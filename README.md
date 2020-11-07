@@ -12,15 +12,15 @@ La información pueden encontrarla en https://github.com/katymq/Python-Weekend-2
 **03 - Reticulate: Una historia de dos lenguajes**
   
    
-**04 - **
+**04 - Comportamiento de Redes sociales**
   
    
-**05 - **
+**05 - Introducción a Machine Learning**
   
    
-**06 - **
-  
+**06 - Introducción a Pytorch**
+La presentación está en la carpeta: 06_Pytorch_introduccion
    
 **07 - Redes convolucionales con Pythorch**
-La información está en la carpeta: 07_RedesConvolucionales
+La presentación está en la carpeta: 07_RedesConvolucionales
   
