@@ -8,19 +8,21 @@ La información está en la carpeta 01_Bases_Python_DataScience
   
 **02 - Analisis exploratorio de datos con Python**  
 Por: [Katherine Morales](https://www.linkedin.com/in/katherine-morales-7194a3108/)  
-La información pueden encontrarla en https://github.com/katymq/Python-Weekend-2020
+La información pueden encontrarla en  
+https://github.com/katymq/Python-Weekend-2020
 
   
 **03 - Reticulate: Una historia de dos lenguajes**
 Por: [Antonio Álvarez]()  
    
 **04 - Comportamiento de Redes sociales**
-  
+Por: [Michelle Nieto]()      
    
 **05 - Introducción a Machine Learning**
-  
+Por: [Ángel Catagua](https://www.linkedin.com/in/angel-catagua-259b2a78/)    
    
 **06 - Introducción a Pytorch**  
+Por: [Roberto Esteves](https://www.linkedin.com/in/restevesd/)  
 La presentación está en la carpeta: 06_Pytorch_introduccion
    
 **07 - Redes convolucionales con Pythorch**  
