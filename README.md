@@ -34,3 +34,12 @@ La presentación está en la carpeta: 06_Pytorch_introduccion
 Por: [Christian Tutiven](https://www.linkedin.com/in/christian-tutiven)  
 La presentación está en la carpeta: 07_RedesConvolucionales
   
+
+
+## Sociedad Ecuatorina de Estadística
+
+Para más charlas, eventos y noticias síguenos en:
+FB: www.facebook.com/socecuest  
+TW: www.twitter.com/see_estadistica  
+IN: www.linkedin.com/company/sociedad-ecuatoriana-de-estadistica  
+IG: www.instagram.com/see_estadistica  
