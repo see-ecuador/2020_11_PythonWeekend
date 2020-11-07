@@ -34,7 +34,8 @@ Colab sobre operaciones con tensores: https://colab.research.google.com/drive/1m
    
 **07 - Redes convolucionales con Pythorch**  
 Por: [Christian Tutiven](https://www.linkedin.com/in/christian-tutiven)  
-La presentación está en la carpeta: 07_RedesConvolucionales
+La presentación está en la carpeta: 07_RedesConvolucionales  
+Datos y cuadernos en https://espolec-my.sharepoint.com/:f:/g/personal/cjtutive_espol_edu_ec/ErIelTDSB45Kj5lLiifKMZYBz8CS5lq-XVuld3oNYlrDNg?e=eK27NW
   
 
 
