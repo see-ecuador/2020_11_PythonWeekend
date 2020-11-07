@@ -13,10 +13,10 @@ https://github.com/katymq/Python-Weekend-2020
 
   
 **03 - Reticulate: Una historia de dos lenguajes**  
-Por: [Antonio Álvarez]()  
+Por: [Antonio Álvarez](https://www.linkedin.com/in/aaalvarez94/)  
    
 **04 - Comportamiento de Redes sociales**  
-Por: [Michelle Nieto]()      
+Por: [Michelle Nieto](https://www.linkedin.com/in/michelle-nieto-b3a371114/)      
    
 **05 - Introducción a Machine Learning**  
 Por: [Ángel Catagua](https://www.linkedin.com/in/angel-catagua-259b2a78/)    
