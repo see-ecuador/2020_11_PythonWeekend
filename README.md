@@ -23,11 +23,13 @@ Y el colab trabajado en: https://colab.research.google.com/drive/1YbruPUHdLP-TsZ
    
 **05 - Introducción a Machine Learning**  
 Por: [Michelle Nieto](https://www.linkedin.com/in/michelle-nieto-b3a371114/)         
-El colab compartido lo encuentran en: https://colab.research.google.com/drive/1aYP6kMPmj7D5UQ-q9rTh6eA2v5lnbYh1?usp=sharing  
+El colab compartido lo encuentran en: https://colab.research.google.com/drive/1aYP6kMPmj7D5UQ-q9rTh6eA2v5lnbYh1?usp=sharing   
+Los datos pueden descargar desde UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/bank+marketing
   
 **06 - Introducción a Pytorch**  
 Por: [Roberto Esteves](https://www.linkedin.com/in/restevesd/)  
-La presentación está en la carpeta: 06_Pytorch_introduccion
+La presentación está en la carpeta: 06_Pytorch_introduccion  
+Colab sobre operaciones con tensores: https://colab.research.google.com/drive/1m_WhxOihCHQix2WHmJ2MZKOSGlobkF3r?usp=sharing  
    
    
 **07 - Redes convolucionales con Pythorch**  
