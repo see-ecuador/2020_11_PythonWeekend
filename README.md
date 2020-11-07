@@ -19,6 +19,8 @@ Por: [Antonio Álvarez](https://www.linkedin.com/in/aaalvarez94/)
 **04 - Comportamiento de Redes sociales**  
 Por: [Ángel Catagua](https://www.linkedin.com/in/angel-catagua-259b2a78/)    
 La información está en la carpeta: 04_Analisis_RedesSociales  
+Y el colab trabajado en:
+https://colab.research.google.com/drive/1YbruPUHdLP-TsZIhbwzrJy-EJKOdKwaO?usp=sharing
    
    
 **05 - Introducción a Machine Learning**  
