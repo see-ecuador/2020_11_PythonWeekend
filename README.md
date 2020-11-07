@@ -15,15 +15,19 @@ https://github.com/katymq/Python-Weekend-2020
 **03 - Reticulate: Una historia de dos lenguajes**  
 Por: [Antonio Álvarez](https://www.linkedin.com/in/aaalvarez94/)  
    
-**04 - Comportamiento de Redes sociales**  
-Por: [Michelle Nieto](https://www.linkedin.com/in/michelle-nieto-b3a371114/)      
    
-**05 - Introducción a Machine Learning**  
+**04 - Comportamiento de Redes sociales**  
 Por: [Ángel Catagua](https://www.linkedin.com/in/angel-catagua-259b2a78/)    
    
+   
+**05 - Introducción a Machine Learning**  
+Por: [Michelle Nieto](https://www.linkedin.com/in/michelle-nieto-b3a371114/)         
+  
+  
 **06 - Introducción a Pytorch**  
 Por: [Roberto Esteves](https://www.linkedin.com/in/restevesd/)  
 La presentación está en la carpeta: 06_Pytorch_introduccion
+   
    
 **07 - Redes convolucionales con Pythorch**  
 Por: [Christian Tutiven](https://www.linkedin.com/in/christian-tutiven)  
