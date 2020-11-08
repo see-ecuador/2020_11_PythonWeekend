@@ -13,6 +13,7 @@ La información pueden encontrarla en: https://github.com/katymq/Python-Weekend-
   
 **03 - Reticulate: Una historia de dos lenguajes**  
 Por: [Antonio Álvarez](https://www.linkedin.com/in/aaalvarez94/)  
+Diapositivas en: https://madnietzsche.github.io/snake/#1
    
    
 **04 - Comportamiento de Redes sociales**  
